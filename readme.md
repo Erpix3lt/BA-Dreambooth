@@ -8,6 +8,6 @@ Due to the size of each model, i uploaded them to my huggingface profile. When u
 
 ## TODO
 [x] Alteration
-[ ] Experimentation
+[x] Experimentation
 [x] Exploration
-[ ] Replication
+[x] Replication
