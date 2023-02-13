@@ -32,8 +32,4 @@ Huggingface: https://huggingface.co/Erpix3lt/WADF_Dreambooth_DressMadeFromTheDev
 - <*wadre*> https://huggingface.co/Erpix3lt/WADF_Dreambooth_DressMadeOutOfWater
 - <*suitzeb*> https://huggingface.co/Erpix3lt/WADF_Dreambooth_SuitZebraPrint
 
-## TODO
-[x] Alteration
-[x] Experimentation
-[x] Exploration
-[x] Replication
+
